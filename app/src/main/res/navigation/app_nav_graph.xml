@@ -29,6 +29,7 @@
     <fragment
             android:id="@+id/splashFragment"
             android:name="com.harsh.mpsconnect.ui.SplashFragment"
+            tools:layout="@layout/fragment_splash"
             android:label="SplashFragment">
 
         <action
